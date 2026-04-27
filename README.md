@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hoja de Vida
 
-<!--
-**0Jesus-Rojas/0Jesus-Rojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## jesus David Rojas Guerrero
+**Profesión:** _Analista y desarollador de software_
 
-Here are some ideas to get you started:
+## 📞 Contacto
+- **Email:** [jesusdavid181003@gmail.com](jesusdavid181003@gmail.com)
+- **LinkedIn:** [Jesus Rojas](https://www.linkedin.com/in/jesus-rojas-8a8546275)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏢 Experiencia Laboral
+### **Ciel ingenieria** _(jul 2022 Enero 2023)_
+- Tester de software.
+-   Pruebas do software y automatizacion
+### **Teleperformance** _(Septiembre 2023 Diciembre 2024)_
+- Agente.
+-   Atender y resolver los reclamos de Mercado Libre
+## 👨‍🏫 Experiencia Academica
+## 🎓 Colegio Enrique Olaya Herrera
+-  ### **Bachiller y tecnico en ejecucion musical** _(2020)_
+## 🎓 Universidad distrital
+-  ### **Desarrollo full stack basico** _(2023 - 2023)_
+## 🎓 SENA
+-  ### **Tecnico en programacion de software** _(2021 - 2023)_
+-  ### **Calidad en el desarrollo de software** _(2025 - 2025)_
+-  ### **Conceptualizacion del lenguace c++** _(2025 - 2025)_
+-  ### **Modelado 3d en la aplicacion Sketchup** _(2025 - 2025)_
+
+
+## 💡 Habilidades
+- **Trabajo en equipo**
+- **Comunicacion aseriva**
+- **Proactividad**
+
+**Lenguajes:** 
+- HTML
+- css
+- Python
+- C++
+- JavaScript
